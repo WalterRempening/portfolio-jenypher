@@ -1,3 +1,4 @@
+// dope
 var el = document.querySelector('.dialog');
 var content = el.querySelector('.dialog-content');
 
