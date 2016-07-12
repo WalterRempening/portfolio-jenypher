@@ -47,7 +47,7 @@ p {
 .presentacion{
     margin-bottom: 20px;
     font-size: 100px;
-    font-color: #f05f40 ;
+    font-color: #f05f40;
 }
 
 .bg-primary {
@@ -307,7 +307,7 @@ aside {
 }
 
 .salsa1, .salsa2, .salsa3, .salsa4, .salsa5{
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 .cd-fixed-bg.frida1 {
@@ -798,7 +798,7 @@ h1 {
         margin: 0px auto;
     }
 
-    /*video#portada{
+   /*video#portada{
      height: 100%; 
     }*/
 }
